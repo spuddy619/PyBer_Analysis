@@ -22,10 +22,10 @@ Rural Cities are the homes of the lowest values of total rides, total drivers, a
 
 ## Summary - provide three business recommendations to the CEO for addressing any disparities among the city types  
 
-### Rural Cities bring in significantly less fares compared to their suburban and urban counterparts. Looking into these deficiencies would be wise. The combination of very few total rides and drivers with high average fares per ride and driver makes it an unappealing venture for both the consumer and the company. 
+- Rural Cities bring in significantly less fares compared to their suburban and urban counterparts. Looking into these deficiencies would be wise. The combination of very few total rides and drivers with high average fares per ride and driver makes it an unappealing venture for both the consumer and the company. 
 
-### Rural Cities and their high average fare per ride and average fare per driver may contribute to the lack of riders and drivers,  and consequently, fares collected. Any potential riders may be discouraged by the cost of the ride, driving away business and not incentivizing drivers to drive in these areas as they would not be earning as much. Further understanding the nature of this conundrum may be worth looking into
+- Rural Cities and their high average fare per ride and average fare per driver may contribute to the lack of riders and drivers,  and consequently, fares collected. Any potential riders may be discouraged by the cost of the ride, driving away business and not incentivizing drivers to drive in these areas as they would not be earning as much. Further understanding the nature of this conundrum may be worth looking into
 
-### Urban Cities seem to be doing well so a pivot in focus, specifically directed towards rural cities, may be beneficial. More resources could be drawn towards rural cities. This may lead to some shortcoming in other types of cities so we may need to be careful. Additionally, these shortcomings may be worth it if the company can bring rural cities up to speed with the other two types of cities.
+- Urban Cities seem to be doing well so a pivot in focus, specifically directed towards rural cities, may be beneficial. More resources could be drawn towards rural cities. This may lead to some shortcoming in other types of cities so we may need to be careful. Additionally, these shortcomings may be worth it if the company can bring rural cities up to speed with the other two types of cities.
 
 
